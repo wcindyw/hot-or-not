@@ -7,10 +7,13 @@ AthenaHacks 2023 submission
 
 ## How we built it
 
-## Challenges 
+## Challenges we ran into 
 
-## Accomplishments
+## Accomplishments that we're proud of
 
-## Lessons learned
+## What we learned
 
-## Looking forward
+## What's next for HOTorNOT
+
+## Try it out
+wcindyw.github.io/hot-or-not/
